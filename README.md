@@ -28,10 +28,18 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View
+
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/71252906/224493790-fbd9513a-e285-4ad7-a821-90597fd247ef.png">
+
+Mobile View
+
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/71252906/224493865-aadb26c0-2780-4aa5-b163-f77879e4c09a.png">
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/29nikita/signup-form)
+- Live Site URL: [Live site URL](https://nikita-signup-form.netlify.app/)
 
 ## My process
 
@@ -95,5 +103,4 @@ if(!email){
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@29nikita](https://www.frontendmentor.io/profile/29nikita)
